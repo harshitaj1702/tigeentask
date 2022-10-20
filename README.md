@@ -7,5 +7,5 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-then try to open
-Open [http://localhost:3000/homepage](http://localhost:3000/homepage)
+then try to open\
+[http://localhost:3000/homepage](http://localhost:3000/homepage)
